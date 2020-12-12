@@ -1,0 +1,3 @@
+/home/jifeiqian/FactoryPatternPractice/build/CMakeFiles/edit_cache.dir
+/home/jifeiqian/FactoryPatternPractice/build/CMakeFiles/image_process.dir
+/home/jifeiqian/FactoryPatternPractice/build/CMakeFiles/rebuild_cache.dir

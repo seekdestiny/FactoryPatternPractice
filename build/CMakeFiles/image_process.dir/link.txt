@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall   CMakeFiles/image_process.dir/src/main.cpp.o CMakeFiles/image_process.dir/src/operation.cpp.o  -o image_process 

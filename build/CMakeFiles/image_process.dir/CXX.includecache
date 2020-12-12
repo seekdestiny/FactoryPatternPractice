@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jifeiqian/FactoryPatternPractice/src/image.h
+vector
+-
+
+/home/jifeiqian/FactoryPatternPractice/src/main.cpp
+iostream
+-
+operation.h
+/home/jifeiqian/FactoryPatternPractice/src/operation.h
+memory
+-
+
+/home/jifeiqian/FactoryPatternPractice/src/operation.cpp
+operation.h
+/home/jifeiqian/FactoryPatternPractice/src/operation.h
+iostream
+-
+sstream
+-
+
+/home/jifeiqian/FactoryPatternPractice/src/operation.h
+image.h
+/home/jifeiqian/FactoryPatternPractice/src/image.h
+memory
+-
+map
+-
+
